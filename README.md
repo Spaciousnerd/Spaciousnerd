@@ -103,7 +103,7 @@ I also maintain my problem solutions and intuitions on GitHub.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Spaciousnerd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spaciousnerd&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=Spaciousnerd&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 ---
