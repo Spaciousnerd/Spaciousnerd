@@ -107,6 +107,7 @@ I also maintain my problem solutions and intuitions on GitHub.
 
 </div>
 ---
+
 ## Currently Learning
 
 - Advanced Data Structures & Algorithms
@@ -116,8 +117,14 @@ I also maintain my problem solutions and intuitions on GitHub.
 - Building and deploying real-world projects
 
 ---
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 <div align="center">
+
 
 ### Thanks for visiting my profile
 
