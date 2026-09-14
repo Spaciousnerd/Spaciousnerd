@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Spaciousnerd
+<div align="center">
 
-### Computer Science Engineering Student | Full-Stack Developer | Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Spaciousnerd&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+
+Computer Science Engineering Student • Full-Stack Developer • Problem Solver
 
 </div>
 
