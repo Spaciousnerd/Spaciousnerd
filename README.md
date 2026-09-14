@@ -24,45 +24,61 @@
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-JavaScript · C++ · C · TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript" />
+</p>
 
-**Frontend**
+### Frontend
 
-React · Next.js · HTML · CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
 
-**Backend**
+### Backend & Database
 
-Node.js · Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-**Database**
+### Tools
 
-MongoDB · Mongoose
-
-**Tools**
-
-Git · GitHub · VS Code · Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### Dev Marketplace
+## Featured Projects
 
-A platform for developers and students to upload, showcase, share and sell software projects.
 
 ### Meet Online
+A real-time video meeting application using WebRTC and Socket.IO.
 
-A real-time video meeting application built using React and WebRTC with Socket.IO.
+**Tech:** React · WebRTC · Socket.IO · Node.js
+
+[View Repository](https://github.com/Spaciousnerd/Meet-Online)
+
+---
 
 ### Shelfwise
+A library management application for students and faculty.
 
-A library management application designed for students and faculty.
+**Tech:** React · Node.js · MongoDB
+
+[View Repository](https://github.com/Spaciousnerd/Shelfwise)
+
+---
 
 ### Roomify
+A React and TypeScript project exploring project management and image hosting workflows.
 
-A project-focused web application built with React and TypeScript.
+**Tech:** React · TypeScript · Puter.js
+
+[View Repository](https://github.com/Spaciousnerd/roomify)
 
 ---
 
