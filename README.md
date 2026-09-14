@@ -101,11 +101,10 @@ I also maintain my problem solutions and intuitions on GitHub.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Spaciousnerd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
 <img src="https://streak-stats.demolab.com/?user=Spaciousnerd&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+
 ---
 
 ## Currently Learning
@@ -120,7 +119,11 @@ I also maintain my problem solutions and intuitions on GitHub.
 <h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-snake.svg">
+  </picture>
 </p>
 
 <div align="center">
