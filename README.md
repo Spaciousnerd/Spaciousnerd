@@ -84,18 +84,29 @@ A React and TypeScript project exploring project management and image hosting wo
 
 ## DSA & Problem Solving
 
-I regularly practice:
+I regularly practice Data Structures & Algorithms through:
 
-* LeetCode
-* GeeksforGeeks
-* Codeforces
-* Daily Problem of the Day
-* Competitive programming contests
+- LeetCode
+- GeeksforGeeks
+- Codeforces
+- Daily Problem of the Day
+- Competitive programming contests
 
-I maintain my solutions and problem-solving intuitions in my DSA repository.
+I also maintain my problem solutions and intuitions on GitHub.
+
+[View DSA & POTD Repository](https://github.com/Spaciousnerd/LC_potd_and_contest_problems)
 
 ---
+## GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Spaciousnerd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spaciousnerd&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+---
 ## Currently Learning
 
 * Advanced Data Structures & Algorithms
