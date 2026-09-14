@@ -109,11 +109,11 @@ I also maintain my problem solutions and intuitions on GitHub.
 ---
 ## Currently Learning
 
-* Advanced Data Structures & Algorithms
-* Full-Stack Development
-* TypeScript & Next.js
-* AI/ML
-* System Design fundamentals
+- Advanced Data Structures & Algorithms
+- Full-Stack Development with React, Node.js & MongoDB
+- TypeScript & Next.js
+- AI/ML
+- Building and deploying real-world projects
 
 ---
 
