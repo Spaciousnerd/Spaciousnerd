@@ -1,12 +1,14 @@
 <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Shivam%20Yadav&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Spaciousnerd&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Engineering+Student;Problem+Solver;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-Computer Science Engineering Student • Full-Stack Developer • Problem Solver
 
 </div>
+
 
 ---
 
