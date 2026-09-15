@@ -52,8 +52,6 @@
 
 ## Featured Projects
 
-## Featured Projects
-
 
 ### Meet Online
 A real-time video meeting application using WebRTC and Socket.IO.
@@ -124,6 +122,18 @@ I also maintain my problem solutions and intuitions on GitHub.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Spaciousnerd/Spaciousnerd/output/github-snake.svg">
   </picture>
+</p>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-yadav1002/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Spaciousnerd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
